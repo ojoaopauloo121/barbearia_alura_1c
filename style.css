@@ -4,3 +4,6 @@ background: #ccccc
 p {
     text-align: center;
 }
+em strong {
+    color:rgb(193, 42, 150)
+}
